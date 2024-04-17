@@ -59,6 +59,5 @@ namespace ConsoleApp1
             aggres.FindSecondLargeNum();
             Console.ReadLine();
         }
-       
     }
 }
